@@ -1,0 +1,11 @@
+.card {
+    /* height: 300px; */
+    width: 300px;
+    border-radius: 16px;
+    border: 1px solid lightgray;
+}
+
+.card-img {
+    width: 100%;
+}
+

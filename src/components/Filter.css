@@ -1,0 +1,42 @@
+.bg-container {
+    margin: 30px auto;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    /* position: relative; */
+}
+
+.input-text {
+    position: relative;
+    padding: 8px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color:  #f1f5f9;
+}
+
+.bi {
+    font-size: xx-small;
+    position: absolute;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    text-align: end;
+}
+
+.places-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+}
